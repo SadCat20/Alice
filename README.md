@@ -1,11 +1,6 @@
 # Alice
 
-Навык для Яндекс.Алисы, умеющий: говорить, в какой стране данный город, кидать ссылку на вики о городе, если в запросе два города - 
-говорить расстояние мужду ними.
+Skill for Yandex.Alice, who can: say which country this city is in, throw a link to the wiki about the city, if there are two cities in the request - 
+talk the distance between them.
 
-Использованы:
-flask
-logging
-json
-random
-math
+Used: flask, logging, json, random, math
